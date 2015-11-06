@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<!--[if !IE]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<!--[if IE 6 ]><html lang="en-US" class="ie ie6"><![endif]-->
+<!--[if IE 7 ]><html lang="en-US" class="ie ie7"><![endif]-->
+<!--[if IE 8 ]><html lang="en-US" class="ie ie8"><![endif]-->
+<head>
+	<base href="https://ruxcon.org.au/"><!--[if lte IE 6]></base><![endif]-->
+	<title>Slides &raquo; Ruxcon Security Conference</title>
+	<meta charset="utf-8">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="generator" content="SilverStripe - http://silverstripe.org" />
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+
+	<!--[if lt IE 9]>
+	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	
+	
+	
+	
+	
+	
+	<link rel="shortcut icon" href="themes/ruxcon/images/favicon.ico" />
+        <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-33572803-1', 'auto');
+          ga('send', 'pageview');
+
+        </script>
+<link rel="stylesheet" type="text/css" href="https://ruxcon.org.au/themes/ruxcon/css/typography.css?m=1420942806" />
+<link rel="stylesheet" type="text/css" href="https://ruxcon.org.au/themes/ruxcon/css/form.css?m=1420942806" />
+<link rel="stylesheet" type="text/css" href="https://ruxcon.org.au/themes/ruxcon/css/screen.css?m=1441790950" />
+<link rel="stylesheet" type="text/css" href="https://ruxcon.org.au/themes/ruxcon/css/general.css?m=1442929173" />
+<link rel="stylesheet" type="text/css" href="https://ruxcon.org.au/themes/ruxcon/css/table.css?m=1443234056" />
+</head>
+<body class="Slides no-sidebar" dir="ltr">
+<div id="header">
+        <div class="con">
+                <h1><a href="https://ruxcon.org.au"></a><span>24-25 October, Melbourne, Australia</span></h1>
+                <ul id="nav">
+                
+                
+                        <li><a href="https://ruxcon.org.au/">HOME</a></li>
+                
+                
+                
+                        <li><a href="https://ruxcon.org.au/slides/">SLIDES</a></li>
+                
+                
+                
+                        <li><a href="https://ruxcon.org.au/speakers/">SPEAKERS</a></li>
+                
+                
+                
+                        <li><a href="https://ruxcon.org.au/schedule/">SCHEDULE</a></li>
+                
+                
+                
+                        <li><a href="https://ruxcon.org.au/events/">EVENTS</a></li>
+                
+                
+                
+                        <li><a href="https://ruxcon.org.au/travel/">VENUE</a></li>
+                
+                
+                
+                        <li><a href="https://ruxcon.org.au/sponsors-2015/">SPONSORS</a></li>
+                
+                
+                
+                        <li class="last"><a href="https://ruxcon.org.au/contact-us/">CONTACT</a></li>
+                
+                
+                </ul>
+        </div>
+</div>
+
+                        <div id="callout">
+                                <div class="con">
+                                        <h2>Slides</h2>
+                                </div>
+                        </div>
+                        <div id="content">
+                       		<div id="Layout"></div>
+                                <p></p>
+                                <table class="roundTable" style="width: 100%;" border="0" cellspacing="0" cellpadding="0">
+                                        <thead>
+                                        <tr>
+                                                <th width="450"><strong>Presentation</strong></th>
+                                                <th><strong>Speaker</strong></th>
+                                                <th></th>
+                                                <th><strong>Slides</strong></th>
+                                                <th></th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        
+                                        <tr class="" style="cursor:pointer" onclick="document.location = ''">
+                                                <td>
+                                                        <p>DNS as a Defense Vector</p>
+                                                </td>
+                                                <td>
+                                                        <p>Paul Vixie</p>
+                                                </td>
+                                                <td>
+                                                        <img src="https://ruxcon.org.au/assets/2015/speakers/vixie.jpg" width="40" height="50" alt="">
+                                                </td>
+                                                <td>
+                                                        
+                                                        <p><a href="https://ruxcon.org.au/assets/2015/slides/2015-DNS-as-a-Defense-Vector.pdf">Slides</a></p>
+                                                        
+                                                </td>
+                                        </tr>
+                                        
+                                        <tr class="" style="cursor:pointer" onclick="document.location = ''">
+                                                <td>
+                                                        <p>Purple Teaming: One year after going from full time breaker to part time fixer</p>
+                                                </td>
+                                                <td>
+                                                        <p>Chris Gates</p>
+                                                </td>
+                                                <td>
+                                                        <img src="https://ruxcon.org.au/assets/2015/speakers/gates-grayscale.jpeg" width="40" height="50" alt="">
+                                                </td>
+                                                <td>
+                                                        
+                                                        <p>Not available</p>
+                                                        
+                                                </td>
+                                        </tr>
+                                        
+                                        <tr class="" style="cursor:pointer" onclick="document.location = ''">
+                                                <td>
+                                                        <p>High Performance Fuzzing</p>
+                                                </td>
+                                                <td>
+                                                        <p>Richard Johnson</p>
+                                                </td>
+                                                <td>
+                                                        <img src="https://ruxcon.org.au/assets/2015/speakers/default5.jpg" width="40" height="50" alt="">
+                                                </td>
+                                                <td>
+                                                        
+                                                        <p><a href="https://ruxcon.org.au/assets/2015/slides/High-Performance-Fuzzing.pptx">Slides</a></p>
+                                                        
+                                                </td>
+                                        </tr>
+                                        
+                                        <tr class="" style="cursor:pointer" onclick="document.location = ''">
+                                                <td>
+                                                        <p> Design, Implementation and Bypass of the Chain-of-trust Model of iOS</p>
+                                                </td>
+                                                <td>
+                                                        <p>Team Pangu</p>
+                                                </td>
+                                                <td>
+                                                        <img src="https://ruxcon.org.au/assets/2015/speakers/pangu.png" width="40" height="50" alt="">
+                                                </td>
+                                                <td>
+                                                        
+                                                        <p>Not available</p>
+                                                        
+                                                </td>
+                                        </tr>
+                                        
+                                        <tr class="" style="cursor:pointer" onclick="document.location = ''">
+                                                <td>
+                                                        <p>The New South Wales iVote System: Security Failures and Verification Flaws in a Live Online Election</p>
+                                                </td>
+                                                <td>
+                                                        <p>Vanessa Teague</p>
+                                                </td>
+                                                <td>
+                                                        <img src="https://ruxcon.org.au/assets/2015/speakers/vanessa-teague-grayscale.jpg" width="40" height="50" alt="">
+                                                </td>
+                                                <td>
+                                                        
+                                                        <p><a href="https://ruxcon.org.au/assets/2015/slides/iVote2015Ruxcon.ppt">Slides</a></p>
+                                                        
+                                                </td>
+                                        </tr>
+                                        
+                                        <tr class="" style="cursor:pointer" onclick="document.location = ''">
+                                                <td>
+                                                        <p>MalwAirDrop: Compromising iDevices via AirDrop</p>
+                                                </td>
+                                                <td>
+                                                        <p>Mark Dowd</p>
+                                                </td>
+                                                <td>
+                                                        <img src="https://ruxcon.org.au/assets/2015/speakers/mark-gray-150x190.jpg" width="40" height="50" alt="">
+                                                </td>
+                                                <td>
+                                                        
+                                                        <p><a href="https://ruxcon.org.au/assets/2015/slides/ruxcon-2016-dowd.pptx">Slides</a></p>
+                                                        
+                                                </td>
+                                        </tr>
+                                        
+                                        <tr class="" style="cursor:pointer" onclick="document.location = ''">
+                                                <td>
+                                                        <p>Broadcasting Your Attack: Security Testing DAB Radio In Cars</p>
+                                                </td>
+                                                <td>
+                                                        <p>Andy Davis</p>
+                                                </td>
+                                                <td>
+                                                        <img src="https://ruxcon.org.au/assets/2015/speakers/andy-davis.png" width="40" height="50" alt="">
+                                                </td>
+                                                <td>
+                                                        
+                                                        <p><a href="https://ruxcon.org.au/assets/2015/slides/Broadcasting-your-attack-Security-testing-DAB-radio-in-cars.pdf">Slides</a></p>
+                                                        
+                                                </td>
+                                        </tr>
+                                        
+                                        <tr class="" style="cursor:pointer" onclick="document.location = ''">
+                                                <td>
+                                                        <p>Windows 10: 2 Steps Forward, 1 Step Back</p>
+                                                </td>
+                                                <td>
+                                                        <p>James Forshaw</p>
+                                                </td>
+                                                <td>
+                                                        <img src="https://ruxcon.org.au/assets/2015/speakers/jamesf.png" width="40" height="50" alt="">
+                                                </td>
+                                                <td>
+                                                        
+                                                        <p><a href="https://ruxcon.org.au/assets/2015/slides/Windows 10, 2 Steps Forward, 1 Step Back - Redacted.pdf">Slides</a></p>
+                                                        
+                                                </td>
+                                        </tr>
+                                        
+                                        <tr class="" style="cursor:pointer" onclick="document.location = ''">
+                                                <td>
+                                                        <p>Practical Intel SMEP Bypass Techniques on Linux</p>
+                                                </td>
+                                                <td>
+                                                        <p>Vitaly Nikolenko</p>
+                                                </td>
+                                                <td>
+                                                        <img src="https://ruxcon.org.au/assets/2015/speakers/vnikolenko.png" width="40" height="50" alt="">
+                                                </td>
+                                                <td>
+                                                        
+                                                        <p><a href="https://ruxcon.org.au/assets/2015/slides/RUXCON15-Vitaly.pdf">Slides</a></p>
+                                                        
+                                                </td>
+                                        </tr>
+                                        
+                                        <tr class="" style="cursor:pointer" onclick="document.location = ''">
+                                                <td>
+                                                        <p>Advanced SOHO Router Exploitation</p>
+                                                </td>
+                                                <td>
+                                                        <p>Lyon Yang</p>
+                                                </td>
+                                                <td>
+                                                        <img src="https://ruxcon.org.au/assets/2015/speakers/lyonyang.png" width="40" height="50" alt="">
+                                                </td>
+                                                <td>
+                                                        
+                                                        <p><a href="https://ruxcon.org.au/assets/2015/slides/soho-RUXCON-2015-withoutvideo.pptx">Slides</a></p>
+                                                        
+                                                </td>
+                                        </tr>
+                                        
+                                        <tr class="" style="cursor:pointer" onclick="document.location = ''">
+                                                <td>
+                                                        <p>Why Attacker&#039;s Toolsets Do What They Do</p>
+                                                </td>
+                                                <td>
+                                                        <p>Matt McCormack</p>
+                                                </td>
+                                                <td>
+                                                        <img src="https://ruxcon.org.au/assets/2015/speakers/mccormack.png" width="40" height="50" alt="">
+                                                </td>
+                                                <td>
+                                                        
+                                                        <p><a href="https://ruxcon.org.au/assets/2015/slides/Ruxcon 2015 - McCormack.pdf">Slides</a></p>
+                                                        
+                                                </td>
+                                        </tr>
+                                        
+                                        <tr class="" style="cursor:pointer" onclick="document.location = ''">
+                                                <td>
+                                                        <p>SDN Security</p>
+                                                </td>
+                                                <td>
+                                                        <p>David Jorm</p>
+                                                </td>
+                                                <td>
+                                                        <img src="https://ruxcon.org.au/assets/2015/speakers/saty.jpg" width="40" height="50" alt="">
+                                                </td>
+                                                <td>
+                                                        
+                                                        <p><a href="https://ruxcon.org.au/assets/2015/slides/sdn-201510-ruxcon.pdf">Slides</a></p>
+                                                        
+                                                </td>
+                                        </tr>
+                                        
+                                        <tr class="" style="cursor:pointer" onclick="document.location = ''">
+                                                <td>
+                                                        <p>Window Driver Attack Surface: Some New Insights</p>
+                                                </td>
+                                                <td>
+                                                        <p>Ilja Van Sprundel</p>
+                                                </td>
+                                                <td>
+                                                        <img src="https://ruxcon.org.au/assets/2015/speakers/default1.jpg" width="40" height="50" alt="">
+                                                </td>
+                                                <td>
+                                                        
+                                                        <p><a href="https://ruxcon.org.au/assets/2015/slides/Windows drivers attack surface.pptx">Slides</a></p>
+                                                        
+                                                </td>
+                                        </tr>
+                                        
+                                        <tr class="" style="cursor:pointer" onclick="document.location = ''">
+                                                <td>
+                                                        <p>Abusing Adobe Reader¹s JavaScript APIs</p>
+                                                </td>
+                                                <td>
+                                                        <p>Jasiel Spelman &amp; Matt Molinyawe</p>
+                                                </td>
+                                                <td>
+                                                        <img src="https://ruxcon.org.au/assets/2015/speakers/jasiel.png" width="40" height="50" alt="">
+                                                </td>
+                                                <td>
+                                                        
+                                                        <p><a href="https://ruxcon.org.au/assets/2015/slides/javascript-Presentation.pptx">Slides</a></p>
+                                                        
+                                                </td>
+                                        </tr>
+                                        
+                                        <tr class="" style="cursor:pointer" onclick="document.location = ''">
+                                                <td>
+                                                        <p>High-Def Fuzzing: Exploring Vulnerabilities in HDMI-CEC</p>
+                                                </td>
+                                                <td>
+                                                        <p>Joshua “kernelsmith” Smith</p>
+                                                </td>
+                                                <td>
+                                                        <img src="https://ruxcon.org.au/assets/2015/speakers/josh-ruxcon-profile.png" width="40" height="50" alt="">
+                                                </td>
+                                                <td>
+                                                        
+                                                        <p><a href="https://ruxcon.org.au/assets/2015/slides/High-Def Fuzzing Ruxcon2015.pdf">Slides</a></p>
+                                                        
+                                                </td>
+                                        </tr>
+                                        
+                                        <tr class="" style="cursor:pointer" onclick="document.location = ''">
+                                                <td>
+                                                        <p>VoIP Wars: Destroying Jar Jar Lync</p>
+                                                </td>
+                                                <td>
+                                                        <p>Fatih Ozavci </p>
+                                                </td>
+                                                <td>
+                                                        <img src="https://ruxcon.org.au/assets/2015/speakers/fatih.png" width="40" height="50" alt="">
+                                                </td>
+                                                <td>
+                                                        
+                                                        <p><a href="https://ruxcon.org.au/assets/2015/slides/VoIPWars-DestroyingJarJarLync-Filtered.pdf">Slides</a></p>
+                                                        
+                                                </td>
+                                        </tr>
+                                        
+                                        <tr class="" style="cursor:pointer" onclick="document.location = ''">
+                                                <td>
+                                                        <p>VENOM</p>
+                                                </td>
+                                                <td>
+                                                        <p>Jason Geffner</p>
+                                                </td>
+                                                <td>
+                                                        <img src="https://ruxcon.org.au/assets/2015/speakers/geffner-150x195.jpg" width="40" height="50" alt="">
+                                                </td>
+                                                <td>
+                                                        
+                                                        <p><a href="https://ruxcon.org.au/assets/2015/slides/VENOM - Ruxcon.zip">Slides</a></p>
+                                                        
+                                                </td>
+                                        </tr>
+                                        
+                                        <tr class="" style="cursor:pointer" onclick="document.location = ''">
+                                                <td>
+                                                        <p>Fruit Salad, yummy yummy: An analysis of ApplePay</p>
+                                                </td>
+                                                <td>
+                                                        <p>Peter Fillmore</p>
+                                                </td>
+                                                <td>
+                                                        <img src="https://ruxcon.org.au/assets/2015/speakers/PeterFillmore-HeadShot-small.jpg" width="40" height="50" alt="">
+                                                </td>
+                                                <td>
+                                                        
+                                                        <p><a href="https://ruxcon.org.au/assets/2015/slides/YummyYummyFruitSalad_Ruxcon2015_PeterFillmore.pdf">Slides</a></p>
+                                                        
+                                                </td>
+                                        </tr>
+                                        
+                                        <tr class="" style="cursor:pointer" onclick="document.location = ''">
+                                                <td>
+                                                        <p>A Peek Under The Blue Coat</p>
+                                                </td>
+                                                <td>
+                                                        <p>Raphaël Rigo</p>
+                                                </td>
+                                                <td>
+                                                        <img src="https://ruxcon.org.au/assets/2015/speakers/raph.jpg" width="40" height="50" alt="">
+                                                </td>
+                                                <td>
+                                                        
+                                                        <p><a href="https://ruxcon.org.au/assets/2015/slides/rucon-bluecoat-rigo.pdf">Slides</a></p>
+                                                        
+                                                </td>
+                                        </tr>
+                                        
+                                        <tr class="" style="cursor:pointer" onclick="document.location = ''">
+                                                <td>
+                                                        <p>Hacked to Death</p>
+                                                </td>
+                                                <td>
+                                                        <p>Chris Rock</p>
+                                                </td>
+                                                <td>
+                                                        <img src="https://ruxcon.org.au/assets/2015/speakers/skeletor.jpg" width="40" height="50" alt="">
+                                                </td>
+                                                <td>
+                                                        
+                                                        <p>Not available</p>
+                                                        
+                                                </td>
+                                        </tr>
+                                        
+                                        <tr class="" style="cursor:pointer" onclick="document.location = ''">
+                                                <td>
+                                                        <p>Automated Malware Analysis: A Behavioural Approach to Automated Unpacking</p>
+                                                </td>
+                                                <td>
+                                                        <p>Karl Denton</p>
+                                                </td>
+                                                <td>
+                                                        <img src="https://ruxcon.org.au/assets/2015/speakers/malwaremusings-ruxcon.png" width="40" height="50" alt="">
+                                                </td>
+                                                <td>
+                                                        
+                                                        <p><a href="https://ruxcon.org.au/assets/2015/slides/ruxcon-2015-automated_malware_analysis.ppt">Slides</a></p>
+                                                        
+                                                </td>
+                                        </tr>
+                                        
+                                        <tr class="" style="cursor:pointer" onclick="document.location = ''">
+                                                <td>
+                                                        <p>Tasty Malware Analysis with T.A.C.O.: Bringing Cuckoo Reports into IDA Pro</p>
+                                                </td>
+                                                <td>
+                                                        <p>Jason Jones</p>
+                                                </td>
+                                                <td>
+                                                        <img src="https://ruxcon.org.au/assets/2015/speakers/jasonjones.jpg" width="40" height="50" alt="">
+                                                </td>
+                                                <td>
+                                                        
+                                                        <p><a href="https://ruxcon.org.au/assets/2015/slides/taco-jjones-ruxcon.pdf">Slides</a></p>
+                                                        
+                                                </td>
+                                        </tr>
+                                        
+                                        <tr class="" style="cursor:pointer" onclick="document.location = ''">
+                                                <td>
+                                                        <p>A Practical Robust Mitigation and Testing Tool for Use-After-Free Vulnerabilities</p>
+                                                </td>
+                                                <td>
+                                                        <p>Yves Younan</p>
+                                                </td>
+                                                <td>
+                                                        <img src="https://ruxcon.org.au/assets/2015/speakers/yy.jpg" width="40" height="50" alt="">
+                                                </td>
+                                                <td>
+                                                        
+                                                        <p><a href="https://ruxcon.org.au/assets/2015/slides/uaf-Ruxcon2015.pdf">Slides</a></p>
+                                                        
+                                                </td>
+                                        </tr>
+                                        
+                                        <tr class="" style="cursor:pointer" onclick="document.location = ''">
+                                                <td>
+                                                        <p>Testing TLS - How To Check If Your TLS Implementation Is Correct</p>
+                                                </td>
+                                                <td>
+                                                        <p>Hubert Kario</p>
+                                                </td>
+                                                <td>
+                                                        <img src="https://ruxcon.org.au/assets/2015/speakers/Hubert-Kario.png" width="40" height="50" alt="">
+                                                </td>
+                                                <td>
+                                                        
+                                                        <p><a href="https://ruxcon.org.au/assets/2015/slides/ruxcon2015-kario-slides-04.pdf">Slides</a></p>
+                                                        
+                                                </td>
+                                        </tr>
+                                        
+                                        <tr class="" style="cursor:pointer" onclick="document.location = ''">
+                                                <td>
+                                                        <p>Hack NFC Access Cards &amp; Steal Credit Card Data with Android For Fun &amp;Profit</p>
+                                                </td>
+                                                <td>
+                                                        <p>Babil Golam Sarwar</p>
+                                                </td>
+                                                <td>
+                                                        <img src="https://ruxcon.org.au/assets/2015/speakers/babil.png" width="40" height="50" alt="">
+                                                </td>
+                                                <td>
+                                                        
+                                                        <p>Not available</p>
+                                                        
+                                                </td>
+                                        </tr>
+                                        
+                                        <tr class="" style="cursor:pointer" onclick="document.location = ''">
+                                                <td>
+                                                        <p>Hacking the Wireless World - Software Defined Radio Exploits</p>
+                                                </td>
+                                                <td>
+                                                        <p>Balint Seeber</p>
+                                                </td>
+                                                <td>
+                                                        <img src="https://ruxcon.org.au/assets/2015/speakers/default1.png" width="40" height="50" alt="">
+                                                </td>
+                                                <td>
+                                                        
+                                                        <p>Not available</p>
+                                                        
+                                                </td>
+                                        </tr>
+                                        
+                                        <tr class="" style="cursor:pointer" onclick="document.location = ''">
+                                                <td>
+                                                        <p>Microarchitecture Independent VM Introspection</p>
+                                                </td>
+                                                <td>
+                                                        <p>Shane Macaulay</p>
+                                                </td>
+                                                <td>
+                                                        <img src="https://ruxcon.org.au/assets/2015/speakers/default-black.jpg" width="40" height="50" alt="">
+                                                </td>
+                                                <td>
+                                                        
+                                                        <p><a href="https://ruxcon.org.au/assets/2015/slides/Virtual-Machiene-Introspection.pptx">Slides</a></p>
+                                                        
+                                                </td>
+                                        </tr>
+                                        
+                                        <tr class="" style="cursor:pointer" onclick="document.location = ''">
+                                                <td>
+                                                        <p>Spread Spectrum Satcom Hacking: Attacking the Globalstar SDS</p>
+                                                </td>
+                                                <td>
+                                                        <p>Colby Moore ** BY VIDEO **</p>
+                                                </td>
+                                                <td>
+                                                        <img src="https://ruxcon.org.au/assets/2015/speakers/cmoore.jpg" width="40" height="50" alt="">
+                                                </td>
+                                                <td>
+                                                        
+                                                        <p>Not available</p>
+                                                        
+                                                </td>
+                                        </tr>
+                                        
+                                        </tbody>
+                                </table>
+                        </div>
+<div id="footer">
+        <div id="social">
+                <a href="http://www.facebook.com/groups/ruxcon" class="facebook"><span>Facebook</span></a>
+                <a href="http://www.twitter.com/ruxcon" class="twitter"><span>Twitter</span></a>
+                <a href="http://www.reddit.com/r/ruxcon" class="reddit"><span>Reddit</span></a>
+        </div>
+	<div id="platsponsors">
+                <h2>Platinum Sponsors</h3>
+		<ul>
+                <li><a href="https://www.telstra.com.au"><img height="56px" src="assets/site/sponsors/telstra-green.png" alt="telstra"></a></li>
+                <li><a href="http://www.defence.gov.au"><img height="56px" src="assets/site/sponsors/dsd.png" alt="department of defence"></a></li>
+		</ul>
+        </div>
+
+</div>
+
+
+<script type="text/javascript" src="https://ruxcon.org.au/framework/thirdparty/jquery/jquery.js?m=1420942442"></script></body>
+</html>
